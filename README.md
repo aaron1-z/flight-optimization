@@ -14,3 +14,11 @@ This project aims to optimize flight paths using AI techniques such as GANs and 
 To generate synthetic data:
 ```bash
 python -m data.generate_data
+
+```
+## Train
+To train the GAN model
+```bash
+python scripts/train_gan.py
+
+``` 
